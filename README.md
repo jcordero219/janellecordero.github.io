@@ -8,5 +8,5 @@
 
 - [Predicting Hospital Readmission](https://github.com/jcordero219/Janelle-Cordero-Data-Science-Portfolio/blob/master/Predicting%20Hospital%20Readmission.ipynb): I worked in a team to predic hospital readmission within 30 days of a patient's discharge. Classification models used include Naive Bayes, Logistic Regression, Random Forest, kNN, and a majority vote ensemble.
 
-- [L2 Regularized Lihnear Regression from Scratch](https://github.com/jcordero219/Janelle-Cordero-Data-Science-Portfolio/blob/master/L2%20Linear%20Regression%20from%20Scratch.ipynb): I coded L2 regularized linear regression without machine learning packages on an example dataset. I primarily used Pandas and Numpy for data manipulation. This code was done in Python 2.7.
+- [L2 Regularized Linear Regression from Scratch](https://github.com/jcordero219/Janelle-Cordero-Data-Science-Portfolio/blob/master/L2%20Linear%20Regression%20from%20Scratch.ipynb): I coded L2 regularized linear regression without machine learning packages on an example dataset. I primarily used Pandas and Numpy for data manipulation. This code was done in Python 2.7.
 
