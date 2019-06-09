@@ -12,3 +12,4 @@
 
 - [k-Nearest Neighbors Algorithm from Scratch](https://github.com/jcordero219/Janelle-Cordero-Data-Science-Portfolio/blob/master/k%20Nearest%20Neighbors%20from%20scratch.ipynb): I coded kNN without machine learning packages on an example dataset. I primarily used Pandas and Numpy for data manipulation. This code was done in Python 2.7.
 
+- [Unsupervised Learning: K-Means Clustering Algorithm from Scratch](https://github.com/jcordero219/Janelle-Cordero-Data-Science-Portfolio/blob/master/K-Means%20Clustering%20Algorithm%20from%20Scratch.ipynb): I coded the K-Means clustering algorithm from scratch two correctly cluster images. I primarily used Pandas and Numpy for data manipulation. This code was done in Python 3.
