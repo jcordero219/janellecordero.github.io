@@ -1,6 +1,6 @@
 # **Janelle Cordero's Data Science Portfolio**
 
-##### I am a recent graduate of the M.S. in Applied Statistics and Decision Making program from Fordham University. This repository includes machine learning projects and assignments that I completed throughout my coursework.
+##### I am a recent graduate of the M.S. in Applied Statistics and Decision Making program from Fordham University. This repository includes Data Science projects and assignments that I completed throughout my coursework.
 
 # Contents
 
